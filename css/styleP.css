@@ -1,0 +1,145 @@
+.HuaHead1 {
+  text-align-last: center; 
+  font-family: "UoqMunThenKhung", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.HuaHead2 {
+  text-align-last: left; 
+  font-family: "UoqMunThenKhung", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
+.HuaHead2_sec {
+  text-align-last: left; 
+  font-family: "UoqMunThenKhung", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 33%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 32%;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Style the footer */
+.footer {
+  background-color: #333;
+  padding: 15px;
+  color: #f2f2f2;
+  text-align: center;
+  font-family: "UoqMunThenKhung", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px;
+  list-style-type: none;
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 95%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#P1 {
+  border: 2px solid #333;
+}
+#p1 {
+  text-align-last: left; 
+  font-family: "UoqMunThenKhung", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.sp1 {
+  background-color: antiquewhite;
+  font-weight: 400;
+}
+
+.sp2 {
+  font-size: 15px;
+  font-weight: bold;
+}
